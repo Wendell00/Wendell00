@@ -21,4 +21,4 @@
 Um amor inevítavel pela tecnologia, meu sonho é trazer uma inovação através da programação.
 
 ### Último projeto:
-- [Criando um site para a minha escola - HTML/CSS/JS](https://github.com/Wendell00/Aliado-WebSite)<br/>
+- [Criando um site para a minha escola (Em construção) - HTML/CSS/JS](https://github.com/Wendell00/Aliado-WebSite)<br/>

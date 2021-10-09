@@ -1,6 +1,8 @@
 ## Olá! Meu nome é Wendell Borges 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wendeus_/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]("WenDEUS#1258")
+
 
 
 ![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell00&show_icons=true&theme=dracula&count_private=true)

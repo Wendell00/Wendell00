@@ -10,7 +10,7 @@ Tenho 18 anos e sou programador, atualmente focado no Front-End, aprimorando hab
 Moro em São Paulo, Brasil.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell00&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell00&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Wendell00/Aliado-WebSite)
 
 
 ## 🔧 Tecnologias que possuo conhecimento

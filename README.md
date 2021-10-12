@@ -1,4 +1,4 @@
-## Olá! Meu nome é Wendell Borges 🖐️
+## Olá! Meu nome é Wendell Borges <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="323" />
  

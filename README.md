@@ -1,12 +1,15 @@
 ## Olá! Meu nome é Wendell Borges 🖐️
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wendeus_/)
 
 
 
 ![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell00&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que possuo conhecimento
+## 🔧 Tecnologias que possuo conhecimento
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -20,6 +23,8 @@
 </div><br/>
 
 Um amor inevítavel pela tecnologia, meu sonho é trazer uma inovação através da programação.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell00&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Último projeto:
 - [Criando um site para a minha escola (Em construção) - HTML/CSS/JS](https://github.com/Wendell00/Aliado-WebSite)<br/>

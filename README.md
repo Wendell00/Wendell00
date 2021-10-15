@@ -6,7 +6,7 @@
 <br>
 
 ## 📜 Sobre mim
-Tenho 18 anos e sou programador, atualmente focado no Front-End, aprimorando habilidades com frameworks.
+Tenho 18 anos e sou programador, atualmente focado no Front-End e aprimorando habilidades com frameworks.
 Moro em São Paulo, Brasil.
 
 

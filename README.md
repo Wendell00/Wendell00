@@ -29,4 +29,4 @@ Um amor inevítavel pela tecnologia, meu sonho é trazer uma inovação através
 ![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell00&show_icons=true&theme=dracula&count_private=true)
 
 ### Último projeto:
-- [Criando um site para a minha escola (Em construção) - HTML/CSS/JS](https://github.com/Wendell00/Aliado-WebSite)<br/>
+- [Criando um site para a minha escola (Em construção) - HTML/CSS/JS/BOOTSTRAP](https://github.com/Wendell00/Aliado-WebSite)<br/>

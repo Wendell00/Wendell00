@@ -1,12 +1,12 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá! Meu nome é Wendell Borges 
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="324" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="344" />
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wendeus_/)
 <br>
 
 ## 📜 Sobre mim
-Tenho 18 anos, atualmente focado no Front-End e aprimorando habilidades com frameworks, com um grande foco em aprender mais e mais, atualmente moro em São Paulo, Brasil.
+Tenho 18 anos, no momento focado no Front-End e aprimorando habilidades com frameworks, com um grande foco em aprender mais e mais, atualmente moro em São Paulo, Brasil.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell00&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Wendell00/Aliado-WebSite)

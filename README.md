@@ -6,7 +6,7 @@
 <br>
 
 ## 📜 Sobre mim
-Tenho 18 anos e sou programador, atualmente focado no Front-End e aprimorando habilidades com frameworks, com um grande foco em aprender mais e mais, atualmente noro em São Paulo, Brasil.
+Tenho 18 anos, atualmente focado no Front-End e aprimorando habilidades com frameworks, com um grande foco em aprender mais e mais, atualmente moro em São Paulo, Brasil.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wendell00&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/Wendell00/Aliado-WebSite)

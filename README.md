@@ -28,6 +28,6 @@ Um amor inevítavel pela tecnologia, meu sonho é trazer uma inovação através
 ![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell00&show_icons=true&theme=dracula&count_private=true)
 
 ### Últimos projetos:
-- [WenSkins - (https://github.com/Wendell00/WenSkins)<br/>
+- [WenSkins - ](https://github.com/Wendell00/WenSkins)<br/>
 - [Template para começar um Website - WEBPACK/EXPRESS/MONGODB/BOOTSTRAP](https://github.com/Wendell00/template_web)<br/>
 - [Art Website - HTML/CSS/JS/BOOTSTRAP](https://github.com/Wendell00/Art-Bootstrap-Beginner)<br/>

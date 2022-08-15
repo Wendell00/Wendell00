@@ -29,5 +29,5 @@ Um amor inevítavel pela tecnologia, meu sonho é trazer uma inovação através
 
 ### Últimos projetos:
 - [WenSkins - Website](https://github.com/Wendell00/WenSkins)<br/>
-- [Template para começar um Website - WEBPACK/EXPRESS/MONGODB/BOOTSTRAP](https://github.com/Wendell00/template_web)<br/>
-- [Art Website - HTML/CSS/JS/BOOTSTRAP](https://github.com/Wendell00/Art-Bootstrap-Beginner)<br/>
+- [Template para começar um Website](https://github.com/Wendell00/template_web)<br/>
+- [Art Website](https://github.com/Wendell00/Art-Bootstrap-Beginner)<br/>

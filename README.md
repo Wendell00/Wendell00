@@ -1,8 +1,7 @@
 ##  Olá! Meu nome é Wendell Borges 
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wendeus_/)
+[![Site](https://img.shields.io/badge/-Site-blue?style=for-the-badge&logo=appveyor)](https://wendellborges.com)
 <br>
 
 ## 📜 Sobre mim

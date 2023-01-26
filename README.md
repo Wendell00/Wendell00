@@ -5,7 +5,7 @@
 <br>
 
 ## 📜 Sobre mim
-Tenho 18 anos, no momento focado no Front-End e aprimorando habilidades com frameworks, com um grande foco em aprender mais e mais, atualmente moro em São Paulo, Brasil.
+Tenho 19 anos, no momento focado no Front-End e aprimorando habilidades com frameworks, com um grande foco em aprender mais e mais, atualmente moro em São Paulo, Brasil.
 
 ![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell00&show_icons=true&theme=dracula&count_private=true)
 

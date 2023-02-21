@@ -1,7 +1,7 @@
 ##  Olá! Meu nome é Wendell Borges 
  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wendeus_/)
-[![Site](https://img.shields.io/badge/-Site-blue?style=for-the-badge&logo=appveyor)](https://wendellborges.com)
+<!-- [![Site](https://img.shields.io/badge/-Site-blue?style=for-the-badge&logo=appveyor)](https://wendellborges.com) -->
 <br>
 
 ## 📜 Sobre mim

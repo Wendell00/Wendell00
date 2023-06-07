@@ -10,6 +10,6 @@ Tenho 19 anos, no momento focado no Front-End e aprimorando habilidades com fram
 ![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=wendell00&show_icons=true&theme=dracula&count_private=true)
 
 ### Últimos projetos:
-- [WenSkins - Website](https://github.com/Wendell00/WenSkins)<br/>
-- [Template para começar um Website](https://github.com/Wendell00/template_web)<br/>
-- [Art Website](https://github.com/Wendell00/Art-Bootstrap-Beginner)<br/>
+- [Youtube-Clone](https://github.com/Wendell00/youtube-clone-wendeus)<br/>
+- [AlfaTv](https://github.com/Wendell00/alfatv)<br/>
+- [PowerRade](https://github.com/Wendell00/Powerade-Landing-Page)<br/>
